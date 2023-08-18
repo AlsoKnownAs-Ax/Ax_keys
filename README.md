@@ -8,9 +8,9 @@ Video-Showcase: https://www.youtube.com/watch?v=LFfdl76eaGY&t=1s&ab_channel=Also
 
 go to vrp/client/basic_garage.lua and use this after vehicle spawn:
 
---> in order to turn off the vehicle on garage spawn use:
+--> in order to turn off the vehicle (on garage spawn) use:
 
-```
+```lua
 TriggerEvent('ax_keys:change_state',false,nveh)
 ```
 
