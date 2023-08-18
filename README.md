@@ -21,10 +21,7 @@ example of parameters for the `change_state` event:
 
 
 ``````````````````````````````````````````````
-
-
-
-<3 Thank for buying from AX-SHOP:           https://discord.gg/UPdRAGA7PQ
+AX-SHOP:           https://discord.gg/UPdRAGA7PQ
 
 > In order to create a key use: 
 
