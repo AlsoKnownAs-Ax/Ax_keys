@@ -1,9 +1,5 @@
 Config = {}
 
---// Lincese and Client Name //--
-Config.clientName = "AX"
-Config.license = "localhost"
-
 --// Keys Config //--
 
 Config.OutOfConfigCarAlert = true        --// This will print in console any car that`s not included in the vehicles.lua
